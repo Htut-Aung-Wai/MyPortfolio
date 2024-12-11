@@ -378,23 +378,9 @@ body.nav-active { overflow: hidden; }
   margin-inline: auto;
 }
 
-.htut-banner .w-100 {
-  mask-image: url("../images/Blob.svg");
-  -webkit-mask-image: url("../images/Blog.svg");
-  mask-repeat: no-repeat;
-  -webkit-mask-repeat: no-repeat;
-  mask-position: center;
-  -webkit-mask-position: center;
-  mask-size: auto;
-  -webkit-mask-size: auto;
-}
 
-.htut .shpe {
-  position: absolute;
-  bottom: 10%;
-  right: 2%;
-  filter: drop-shadow(var(--shadow-2));
-}
+
+
 
 .htut-content { text-align: center; }
 
@@ -474,7 +460,7 @@ body.nav-active { overflow: hidden; }
 
 
 
-  /*#PROJECTS*/
+  /*#Certificates*/
 
 
 .project { border-block: 1px solid var(--cadet-blue-crayola_a20); padding-block:40px; }

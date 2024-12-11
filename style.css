@@ -537,7 +537,7 @@ body.nav-active { overflow: hidden; }
 .contact { padding-block-end: 0; }
 
 .contact-card {
-  /*background-color: var(--snow);*/
+  
   background-color: rgb(233, 243, 255);
   padding: 32px;
   border-radius: var(--radius-8);
